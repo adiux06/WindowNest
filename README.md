@@ -13,6 +13,9 @@ A C++ Win32 application to capture, embed, and control external windows with tra
 * Keyboard shortcuts for quick control
 
 ---
+##Demo Video
+-->https://drive.google.com/file/d/1AgUihLGLOAg2rusn8KIpTLF6XCcEWdix/view?usp=sharing
+
 
 ## 🚀 Run the App (Easy Way)
 
